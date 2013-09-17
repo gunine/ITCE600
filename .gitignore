@@ -1,0 +1,10 @@
+*~
+*.class
+.pydevproject
+.settings
+.DS_Store
+target
+thrift
+*.swp
+*.pyc
+/bin
